@@ -1,8 +1,7 @@
-
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap');
 
 /* =========================
-   1. GENERAL SETTINGS
+    1. GENERAL SETTINGS
 ========================= */
 
 :root {
@@ -51,7 +50,7 @@ img {
 
 
 /* =========================
-   2. HEADER
+    2. HEADER
 ========================= */
 
 .site-header {
@@ -135,7 +134,7 @@ img {
 
 
 /* =========================
-   3. HERO SECTION
+    3. HERO SECTION
 ========================= */
 
 .hero {
@@ -310,7 +309,7 @@ h2 em {
 
 
 /* =========================
-   4. FEATURES SECTION
+    4. FEATURES SECTION
 ========================= */
 
 .features {
@@ -354,7 +353,7 @@ h2 em {
 
 
 /* =========================
-   5. ABOUT SECTION
+    5. ABOUT SECTION
 ========================= */
 
 .section {
@@ -454,7 +453,7 @@ h2 em {
 
 
 /* =========================
-   6. MENU SECTION
+    6. MENU SECTION
 ========================= */
 
 .menu-section {
@@ -551,7 +550,7 @@ h2 em {
 
 
 /* =========================
-   7. SPECIAL SECTION
+    7. SPECIAL SECTION
 ========================= */
 
 .special-section {
@@ -619,7 +618,7 @@ h2 em {
 
 
 /* =========================
-   8. QUOTE SECTION
+    8. QUOTE SECTION
 ========================= */
 
 .quote-section {
@@ -653,7 +652,7 @@ h2 em {
 
 
 /* =========================
-   9. CONTACT SECTION
+    9. CONTACT SECTION
 ========================= */
 
 .contact-section {
@@ -688,7 +687,7 @@ h2 em {
 
 
 /* =========================
-   10. FOOTER
+    10. FOOTER
 ========================= */
 
 .site-footer {
@@ -727,7 +726,7 @@ h2 em {
 
 
 /* =========================
-   11. TABLET RESPONSIVE
+    11. TABLET RESPONSIVE
 ========================= */
 
 @media (max-width: 900px) {
@@ -752,7 +751,7 @@ h2 em {
 
 
 /* =========================
-   12. MOBILE RESPONSIVE
+    12. MOBILE RESPONSIVE
 ========================= */
 
 @media (max-width: 700px) {
@@ -1002,7 +1001,7 @@ h2 em {
 
 
 /* =========================
-   13. SMALL MOBILE
+    13. SMALL MOBILE
 ========================= */
 
 @media (max-width: 390px) {
